@@ -1,0 +1,47 @@
+name: mel_bible
+description: A Bible Software That Helps Us To Find Verses Easily
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  bible: ^1.0.0
+  http: ^0.13.5
+  html: ^0.15.2
+  xml: ^5.0.0
+  flutter_colorpicker: ^1.0.3
+  url_launcher: ^6.1.10
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.2
+  json_serializable: ^6.6.1
+  flutter_lints: ^2.0.0
+  shared_preferences: ^2.1.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/MelBibleIcon/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/web.json
+    - assets/chinese_union_simp.json
+    - assets/chinese_union_trad.json
+    - assets/bible_simplified.json
+    - assets/bible_traditional.json
+    - assets/MelBibleIcon/ios/
+    - assets/MelBibleIcon/android/
+    - assets/mountain.jpg
+    - assets/logo.jpg
+    - assets/loading_page.jpg
+

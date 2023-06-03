@@ -1,0 +1,14 @@
+com.example.mel_bible.app-jetified-window-java-1.0.0-beta04-0 /Users/paul/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.mel_bible.app-core-1.6.0-1 /Users/paul/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.mel_bible.app-jetified-annotation-experimental-1.1.0-2 /Users/paul/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.mel_bible.app-jetified-window-1.0.0-beta04-3 /Users/paul/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.mel_bible.app-main-4 /Users/paul/Codes/mel_bible/android/app/src/main/res
+com.example.mel_bible.app-release-5 /Users/paul/Codes/mel_bible/android/app/src/release/res
+com.example.mel_bible.app-pngs-6 /Users/paul/Codes/mel_bible/build/app/generated/res/pngs/release
+com.example.mel_bible.app-resValues-7 /Users/paul/Codes/mel_bible/build/app/generated/res/resValues/release
+com.example.mel_bible.app-rs-8 /Users/paul/Codes/mel_bible/build/app/generated/res/rs/release
+com.example.mel_bible.app-mergeReleaseResources-9 /Users/paul/Codes/mel_bible/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.mel_bible.app-mergeReleaseResources-10 /Users/paul/Codes/mel_bible/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.mel_bible.app-merged_res-11 /Users/paul/Codes/mel_bible/build/app/intermediates/merged_res/release
+com.example.mel_bible.app-packaged_res-12 /Users/paul/Codes/mel_bible/build/shared_preferences_android/intermediates/packaged_res/release
+com.example.mel_bible.app-packaged_res-13 /Users/paul/Codes/mel_bible/build/url_launcher_android/intermediates/packaged_res/release
