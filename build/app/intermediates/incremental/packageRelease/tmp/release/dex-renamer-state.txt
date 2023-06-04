@@ -1,4 +1,0 @@
-#Fri Jun 02 17:53:23 AEST 2023
-base.0=/Users/paul/Codes/mel_bible/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
